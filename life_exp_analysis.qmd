@@ -19,6 +19,8 @@ Here is the code to organize the data for analysis.
 
 Here is even more text about it.
 
+and even more text
+
 ```{r}
 gapminder::gapminder_unfiltered |>
   group_by(year) |>
