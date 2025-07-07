@@ -1,0 +1,16 @@
+---
+title: "Examine Life Expectancy"
+format: html
+editor: visual
+date: today
+---
+
+```{r}
+library(tidyverse)
+```
+
+# Abstract
+
+Here, I re-examine the analysis of Oeppen and Vaupel (2002).
+
+# Analysis
